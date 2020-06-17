@@ -1,0 +1,15 @@
+{
+    "name": "promo-data-stream",
+    "description": "promo-data-stream",
+    "version": "0.0.1",
+    "dependencies": {},
+    "devDependencies": {
+        "jest": "^24.9.0"
+    },
+    "scripts": {
+        "test": "jest -i --no-cache --verbose"
+    },
+    "jest": {
+        "verbose": true
+    }
+}
