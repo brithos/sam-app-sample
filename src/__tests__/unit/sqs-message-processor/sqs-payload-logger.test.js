@@ -1,5 +1,5 @@
 // Import all functions from sqs-payload-logger.js
-const sqsPayloadLogger = require('../../../src/handlers/sqs-payload-logger.js');
+const sqsPayloadLogger = require('../../../sqs-message-processor/sqs-payload-logger.js');
 
 describe('Test for sqs-payload-logger', function () {
     // This test invokes the sqs-payload-logger Lambda function and verifies that the received payload is logged

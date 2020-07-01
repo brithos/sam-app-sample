@@ -1,3 +1,5 @@
-node_modules
-.aws-sam
+src/node_modules
+src/.aws-sam
 .idea
+samconfig.toml
+.DS_Store
